@@ -1,0 +1,14 @@
+{
+  "name": "quant-system",
+  "version": "0.1.0",
+  "description": "Local C++ quantitative trading system for A-shares",
+  "dependencies": [
+    "duckdb",
+    "arrow",
+    "eigen3",
+    "fmt",
+    "cli11",
+    "nlohmann-json",
+    "benchmark"
+  ]
+}

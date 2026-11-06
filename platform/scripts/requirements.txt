@@ -1,0 +1,19 @@
+# 数据采集
+akshare>=1.14.0
+tushare>=1.4.0
+baostock>=0.8.8
+
+# 数据处理
+pandas>=2.0.0
+pyarrow>=15.0.0
+numpy>=1.24.0
+
+# 数据库
+duckdb>=1.0.0
+
+# 可视化
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# 进度条
+tqdm>=4.66.0

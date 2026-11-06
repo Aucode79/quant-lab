@@ -1,0 +1,15 @@
+# 商业授权数据，严禁入库
+data/
+*.parquet
+*.duckdb
+
+# 构建产物与缓存
+build/
+__pycache__/
+*.pyc
+*.log
+.tmp/
+
+# 系统
+.DS_Store
+Thumbs.db
